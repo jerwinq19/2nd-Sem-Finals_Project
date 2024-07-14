@@ -1,0 +1,142 @@
+{
+    "Product_sold": [
+        {
+            "Item name": "Laptop",
+            "Price": 100000,
+            "Quantity": "21",
+            "Time purchased": "2024-07-12 03:13:37 PM"
+        },
+        {
+            "Item name": "Keyboard",
+            "Price": 1470,
+            "Quantity": "21",
+            "Time purchased": "2024-07-12 03:14:54 PM"
+        },
+        {
+            "Item name": "Laptop",
+            "Price": 1000,
+            "Quantity": 1,
+            "Time purchased": "2024-07-12 03:23:57 PM"
+        },
+        {
+            "Item name": "Mouse",
+            "Price": 30,
+            "Quantity": 1,
+            "Time purchased": "2024-07-12 03:23:58 PM"
+        },
+        {
+            "Item name": "Graphics Card",
+            "Price": 300,
+            "Quantity": 1,
+            "Time purchased": "2024-07-12 03:23:59 PM"
+        },
+        {
+            "Item name": "Camera",
+            "Price": 500,
+            "Quantity": 1,
+            "Time purchased": "2024-07-12 03:24:01 PM"
+        },
+        {
+            "Item name": "Power Supply",
+            "Price": 90,
+            "Quantity": 1,
+            "Time purchased": "2024-07-12 03:24:04 PM"
+        },
+        {
+            "Item name": "Power Bank",
+            "Price": 50,
+            "Quantity": 1,
+            "Time purchased": "2024-07-12 03:24:05 PM"
+        },
+        {
+            "Item name": "Headphones",
+            "Price": 150,
+            "Quantity": 1,
+            "Time purchased": "2024-07-12 03:27:27 PM"
+        },
+        {
+            "Item name": "Bluetooth Speaker",
+            "Price": 1680,
+            "Quantity": "21",
+            "Time purchased": "2024-07-12 03:29:36 PM"
+        },
+        {
+            "Item name": "Bluetooth Speaker",
+            "Price": 80,
+            "Quantity": 1,
+            "Time purchased": "2024-07-12 03:34:04 PM"
+        },
+        {
+            "Item name": "Headphones",
+            "Price": 150,
+            "Quantity": 1,
+            "Time purchased": "2024-07-12 03:51:14 PM"
+        },
+        {
+            "Item name": "Bluetooth Speaker",
+            "Price": 80,
+            "Quantity": 1,
+            "Time purchased": "2024-07-12 03:51:15 PM"
+        },
+        {
+            "Item name": "Charging Cable",
+            "Price": 20,
+            "Quantity": 1,
+            "Time purchased": "2024-07-12 03:51:16 PM"
+        },
+        {
+            "Item name": "SSD",
+            "Price": 150,
+            "Quantity": 1,
+            "Time purchased": "2024-07-12 03:51:39 PM"
+        },
+        {
+            "Item name": "Headphones",
+            "Price": 18450,
+            "Quantity": "123",
+            "Time purchased": "2024-07-12 06:12:40 PM"
+        },
+        {
+            "Item name": "Wall Charger",
+            "Price": 15,
+            "Quantity": "123",
+            "Time purchased": "2024-07-12 06:13:08 PM"
+        },
+        {
+            "Item name": "Headphones",
+            "Price": 18450,
+            "Quantity": "123",
+            "Time purchased": "2024-07-12 10:03:46 PM"
+        },
+        {
+            "Item name": "Headphones",
+            "Price": 18450,
+            "Quantity": "123",
+            "Time purchased": "2024-07-13 08:31:12 AM"
+        },
+        {
+            "Item name": "Bluetooth Speaker",
+            "Price": 9840,
+            "Quantity": "123",
+            "Time purchased": "2024-07-14 09:52:40 AM"
+        },
+        {
+            "Item name": "Bluetooth Speaker",
+            "Price": 80,
+            "Quantity": "1",
+            "Time purchased": "2024-07-14 09:53:14 AM"
+        },
+        {
+            "Item name": "Bluetooth Speaker",
+            "Price": 80,
+            "Quantity": "1",
+            "Time purchased": "2024-07-14 11:37:11 AM"
+        },
+        {
+            "Item name": "Charging Cable",
+            "Price": 20,
+            "Quantity": 1,
+            "Time purchased": "2024-07-14 11:39:36 AM"
+        }
+    ]
+}

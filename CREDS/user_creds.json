@@ -1,0 +1,115 @@
+{
+    "user_credentials": [
+        {
+            "User_name": "1234",
+            "Password": "gAAAAABmk0RD3amsM0ZbUdEIGalB5J2OxKj3GRRjkY7VMuvObST9y5tiuivSv4XkATguOiFfh4q0hHFnpypw7I6cNOcrl_uTgA==",
+            "User_type": "Regular",
+            "Profile_path": "D:/Download/437986448_458350099963188_3264526509103851806_n.jpg",
+            "Orders_History": [
+                {
+                    "Item name": "Bluetooth Speaker",
+                    "Price": 80,
+                    "Quantity": "1",
+                    "Time purchased": "2024-07-14 12:25:00 PM"
+                },
+                {
+                    "Item name": "Charging Cable",
+                    "Price": 2460,
+                    "Quantity": "123",
+                    "Time purchased": "2024-07-14 12:26:31 PM"
+                },
+                {
+                    "Item name": "Bluetooth Speaker",
+                    "Price": 9840,
+                    "Quantity": "123",
+                    "Time purchased": "2024-07-14 12:27:09 PM"
+                },
+                {
+                    "Item name": "Graphics Card",
+                    "Price": 36900,
+                    "Quantity": "123",
+                    "Time purchased": "2024-07-14 12:29:04 PM"
+                },
+                {
+                    "Item name": "Headphones",
+                    "Price": 18450,
+                    "Quantity": "123",
+                    "Time purchased": "2024-07-14 12:29:06 PM"
+                },
+                {
+                    "Item name": "Bluetooth Speaker",
+                    "Price": 9840,
+                    "Quantity": "123",
+                    "Time purchased": "2024-07-14 12:57:50 PM"
+                }
+            ],
+            "Total_Orders": 6,
+            "is_logged_in": false
+        },
+        {
+            "User_name": "admin",
+            "Password": "gAAAAABmk0Untse7Fm4hCcCXsNeeUlS1P5ekGRoS2e4nEzRLuTlfuliiLrSR_mak9xzoCR95nd3RYGDzCumjl1602MtQppPMvQ==",
+            "User_type": "Admin",
+            "Profile_path": "~",
+            "is_logged_in": null
+        },
+        {
+            "User_name": "oliver",
+            "Password": "gAAAAABmk1Thu7-OewSGl0GeJT3sGLvaKN6h-CQgKhL2ry0WFcLq_zuPTL5hAh0JY5oBxux5SfK3ozm6M5BCoansKjTlbH9QGQ==",
+            "User_type": "Regular",
+            "Profile_path": "D:/Download/OLIVER.jpg",
+            "Orders_History": [
+                {
+                    "Item name": "Headphones",
+                    "Price": 150,
+                    "Quantity": "1",
+                    "Time purchased": "2024-07-14 12:32:45 PM"
+                },
+                {
+                    "Item name": "Bluetooth Speaker",
+                    "Price": 80,
+                    "Quantity": 1,
+                    "Time purchased": "2024-07-14 12:32:47 PM"
+                },
+                {
+                    "Item name": "Charging Cable",
+                    "Price": 20,
+                    "Quantity": 1,
+                    "Time purchased": "2024-07-14 12:32:48 PM"
+                },
+                {
+                    "Item name": "External Hard Drive",
+                    "Price": 120,
+                    "Quantity": 1,
+                    "Time purchased": "2024-07-14 12:32:49 PM"
+                },
+                {
+                    "Item name": "Camera",
+                    "Price": 500,
+                    "Quantity": 1,
+                    "Time purchased": "2024-07-14 12:32:50 PM"
+                },
+                {
+                    "Item name": "Graphics Card",
+                    "Price": 300,
+                    "Quantity": 1,
+                    "Time purchased": "2024-07-14 12:32:51 PM"
+                },
+                {
+                    "Item name": "Laptop",
+                    "Price": 1000,
+                    "Quantity": 1,
+                    "Time purchased": "2024-07-14 12:32:52 PM"
+                },
+                {
+                    "Item name": "Mouse",
+                    "Price": 30,
+                    "Quantity": 1,
+                    "Time purchased": "2024-07-14 12:32:53 PM"
+                }
+            ],
+            "Total_Orders": 8,
+            "is_logged_in": false
+        }
+    ]
+}

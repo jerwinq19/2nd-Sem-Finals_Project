@@ -1,0 +1,316 @@
+{
+    "inventory_orders": [
+        {
+            "Item_ID": "133",
+            "Item_Name": "Computer Case",
+            "Customer": "Leo Johnson",
+            "Address": "909 Maple St",
+            "Status": "Cancelled",
+            "Quantity": 1
+        },
+        {
+            "Item_ID": "014",
+            "Item_Name": "Cooling Fan",
+            "Customer": "Mia Rodriguez",
+            "Address": "1010 Birch St",
+            "Status": "Confirmed",
+            "Quantity": 4
+        },
+        {
+            "Item_ID": "015",
+            "Item_Name": "CPU",
+            "Customer": "Noah Smith",
+            "Address": "1111 Cedar St",
+            "Status": "Cancelled",
+            "Quantity": 1
+        },
+        {
+            "Item_ID": "016",
+            "Item_Name": "Graphics Card",
+            "Customer": "Olivia Brown",
+            "Address": "1212 Walnut St",
+            "Status": "Confirmed",
+            "Quantity": 1
+        },
+        {
+            "Item_ID": "017",
+            "Item_Name": "USB Drive",
+            "Customer": "Paul Davis",
+            "Address": "1313 Chestnut St",
+            "Status": "Delivered",
+            "Quantity": 10
+        },
+        {
+            "Item_ID": "018",
+            "Item_Name": "External Hard Drive",
+            "Customer": "Quinn Wilson",
+            "Address": "1414 Spruce St",
+            "Status": "Confirmed",
+            "Quantity": 2
+        },
+        {
+            "Item_ID": "019",
+            "Item_Name": "Router",
+            "Customer": "Rita Thomas",
+            "Address": "1515 Oak St",
+            "Status": "Confirmed",
+            "Quantity": 1
+        },
+        {
+            "Item_ID": "020",
+            "Item_Name": "Network Switch",
+            "Customer": "Sam Martinez",
+            "Address": "1616 Maple St",
+            "Status": "Confirmed",
+            "Quantity": 1
+        },
+        {
+            "Item_ID": "021",
+            "Item_Name": "HDMI Cable",
+            "Customer": "Tina Anderson",
+            "Address": "1717 Birch St",
+            "Status": "Delivered",
+            "Quantity": 5
+        },
+        {
+            "Item_ID": "022",
+            "Item_Name": "Power Adapter",
+            "Customer": "Uma Lewis",
+            "Address": "1818 Cedar St",
+            "Status": "Confirmed",
+            "Quantity": 2
+        },
+        {
+            "Item_ID": "023",
+            "Item_Name": "Flash Drive",
+            "Customer": "Vic White",
+            "Address": "1919 Walnut St",
+            "Status": "Confirmed",
+            "Quantity": 8
+        },
+        {
+            "Item_ID": "024",
+            "Item_Name": "Headphones",
+            "Customer": "Walt Harris",
+            "Address": "2020 Chestnut St",
+            "Status": "Delivered",
+            "Quantity": 3
+        },
+        {
+            "Item_ID": "025",
+            "Item_Name": "Speakers",
+            "Customer": "Xena Clark",
+            "Address": "2121 Spruce St",
+            "Status": "Cancelled",
+            "Quantity": 1
+        },
+        {
+            "Item_ID": "026",
+            "Item_Name": "Microphone",
+            "Customer": "Yara Robinson",
+            "Address": "2222 Oak St",
+            "Status": "Confirmed",
+            "Quantity": 1
+        },
+        {
+            "Item_ID": "027",
+            "Item_Name": "Webcam",
+            "Customer": "Zane Lopez",
+            "Address": "2323 Maple St",
+            "Status": "Delivered",
+            "Quantity": 1
+        },
+        {
+            "Item_ID": "028",
+            "Item_Name": "Tripod",
+            "Customer": "Amy Green",
+            "Address": "2424 Birch St",
+            "Status": "Delivered",
+            "Quantity": 2
+        },
+        {
+            "Item_ID": "029",
+            "Item_Name": "Light Stand",
+            "Customer": "Brian Hill",
+            "Address": "2525 Cedar St",
+            "Status": "Confirmed",
+            "Quantity": 1
+        },
+        {
+            "Item_ID": "030",
+            "Item_Name": "Ring Light",
+            "Customer": "Cathy Scott",
+            "Address": "2626 Walnut St",
+            "Status": "Confirmed",
+            "Quantity": 1
+        },
+        {
+            "Item_ID": "031",
+            "Item_Name": "Phone Holder",
+            "Customer": "David Young",
+            "Address": "2727 Chestnut St",
+            "Status": "Confirmed",
+            "Quantity": 2
+        },
+        {
+            "Item_ID": "032",
+            "Item_Name": "Tablet Stand",
+            "Customer": "Eva King",
+            "Address": "2828 Spruce St",
+            "Status": "Confirmed",
+            "Quantity": 1
+        },
+        {
+            "Item_ID": "033",
+            "Item_Name": "Desk Lamp",
+            "Customer": "Frank Wright",
+            "Address": "2929 Oak St",
+            "Status": "Cancelled",
+            "Quantity": 1
+        },
+        {
+            "Item_ID": "034",
+            "Item_Name": "Smartphone",
+            "Customer": "Grace Baker",
+            "Address": "3030 Maple St",
+            "Status": "Cancelled",
+            "Quantity": 1
+        },
+        {
+            "Item_ID": "035",
+            "Item_Name": "Smartwatch",
+            "Customer": "Hank Nelson",
+            "Address": "3131 Birch St",
+            "Status": "Confirmed",
+            "Quantity": 1
+        },
+        {
+            "Item_ID": "036",
+            "Item_Name": "Fitness Tracker",
+            "Customer": "Ivy Carter",
+            "Address": "3232 Cedar St",
+            "Status": "Confirmed",
+            "Quantity": 2
+        },
+        {
+            "Item_ID": "037",
+            "Item_Name": "Earbuds",
+            "Customer": "Jack Mitchell",
+            "Address": "3333 Walnut St",
+            "Status": "Delivered",
+            "Quantity": 2
+        },
+        {
+            "Item_ID": "038",
+            "Item_Name": "Bluetooth Speaker",
+            "Customer": "Karen Perez",
+            "Address": "3434 Chestnut St",
+            "Status": "Confirmed",
+            "Quantity": 1
+        },
+        {
+            "Item_ID": "039",
+            "Item_Name": "Power Bank",
+            "Customer": "Leo Roberts",
+            "Address": "3535 Spruce St",
+            "Status": "Confirmed",
+            "Quantity": 3
+        },
+        {
+            "Item_ID": "040",
+            "Item_Name": "Charging Cable",
+            "Customer": "Mia Taylor",
+            "Address": "3636 Oak St",
+            "Status": "Confirmed",
+            "Quantity": 5
+        },
+        {
+            "Item_ID": "041",
+            "Item_Name": "Wall Charger",
+            "Customer": "Noah Walker",
+            "Address": "3737 Maple St",
+            "Status": "Confirmed",
+            "Quantity": 2
+        },
+        {
+            "Item_ID": "042",
+            "Item_Name": "Car Charger",
+            "Customer": "Olivia Hall",
+            "Address": "3838 Birch St",
+            "Status": "Delivered",
+            "Quantity": 1
+        },
+        {
+            "Item_ID": "043",
+            "Item_Name": "Wireless Mouse",
+            "Customer": "Paul Allen",
+            "Address": "3939 Cedar St",
+            "Status": "Confirmed",
+            "Quantity": 2
+        },
+        {
+            "Item_ID": "044",
+            "Item_Name": "Wireless Keyboard",
+            "Customer": "Quinn Young",
+            "Address": "4040 Walnut St",
+            "Status": "Confirmed",
+            "Quantity": 1
+        },
+        {
+            "Item_ID": "045",
+            "Item_Name": "Laptop Stand",
+            "Customer": "Rita Hernandez",
+            "Address": "4141 Chestnut St",
+            "Status": "Confirmed",
+            "Quantity": 2
+        },
+        {
+            "Item_ID": "046",
+            "Item_Name": "Cooling Pad",
+            "Customer": "Sam Lopez",
+            "Address": "4242 Spruce St",
+            "Status": "Delivered",
+            "Quantity": 1
+        },
+        {
+            "Item_ID": "047",
+            "Item_Name": "Projector",
+            "Customer": "Tina Adams",
+            "Address": "4343 Oak St",
+            "Status": "Confirmed",
+            "Quantity": 1
+        },
+        {
+            "Item_ID": "048",
+            "Item_Name": "VR Headset",
+            "Customer": "Uma Harris",
+            "Address": "4444 Maple St",
+            "Status": "Confirmed",
+            "Quantity": 1
+        },
+        {
+            "Item_ID": "049",
+            "Item_Name": "Drone",
+            "Customer": "Vic Moore",
+            "Address": "4545 Birch St",
+            "Status": "Confirmed",
+            "Quantity": 1
+        },
+        {
+            "Item_ID": "050",
+            "Item_Name": "Action Camera",
+            "Customer": "Walt Jackson",
+            "Address": "4646 Cedar St",
+            "Status": "Confirmed",
+            "Quantity": 1
+        },
+        {
+            "Item_ID": "1234",
+            "Item_Name": "Tender Juicy Hotdogs",
+            "Customer": "Jerwin Quijano",
+            "Address": "Cotta",
+            "Status": "Confirmed",
+            "Quantity": "10"
+        }
+    ]
+}

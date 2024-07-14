@@ -1,0 +1,145 @@
+{
+    "products": [
+      {
+        "Product_Name": "Headphones",
+        "Quantity": 5,
+        "Price": 150,
+        "Quantity_Sold": 2,
+        "Cost": 100
+      },
+      {
+        "Product_Name": "Bluetooth Speaker",
+        "Quantity": 3,
+        "Price": 80,
+        "Quantity_Sold": 1,
+        "Cost": 50
+      },
+      {
+        "Product_Name": "Charging Cable",
+        "Quantity": 15,
+        "Price": 20,
+        "Quantity_Sold": 8,
+        "Cost": 10
+      },
+      {
+        "Product_Name": "External Hard Drive",
+        "Quantity": 7,
+        "Price": 120,
+        "Quantity_Sold": 4,
+        "Cost": 80
+      },
+      {
+        "Product_Name": "Camera",
+        "Quantity": 2,
+        "Price": 500,
+        "Quantity_Sold": 1,
+        "Cost": 300
+      },
+      {
+        "Product_Name": "Graphics Card",
+        "Quantity": 4,
+        "Price": 300,
+        "Quantity_Sold": 2,
+        "Cost": 200
+      },
+      {
+        "Product_Name": "Laptop",
+        "Quantity": 6,
+        "Price": 1000,
+        "Quantity_Sold": 3,
+        "Cost": 700
+      },
+      {
+        "Product_Name": "Mouse",
+        "Quantity": 20,
+        "Price": 30,
+        "Quantity_Sold": 10,
+        "Cost": 15
+      },
+      {
+        "Product_Name": "Keyboard",
+        "Quantity": 10,
+        "Price": 70,
+        "Quantity_Sold": 5,
+        "Cost": 40
+      },
+      {
+        "Product_Name": "Power Supply",
+        "Quantity": 8,
+        "Price": 90,
+        "Quantity_Sold": 4,
+        "Cost": 60
+      },
+      {
+        "Product_Name": "Power Bank",
+        "Quantity": 12,
+        "Price": 50,
+        "Quantity_Sold": 6,
+        "Cost": 30
+      },
+      {
+        "Product_Name": "SSD",
+        "Quantity": 9,
+        "Price": 150,
+        "Quantity_Sold": 5,
+        "Cost": 100
+      },
+      {
+        "Product_Name": "Motherboard",
+        "Quantity": 5,
+        "Price": 200,
+        "Quantity_Sold": 3,
+        "Cost": 150
+      },
+      {
+        "Product_Name": "Printer",
+        "Quantity": 3,
+        "Price": 120,
+        "Quantity_Sold": 2,
+        "Cost": 80
+      },
+      {
+        "Product_Name": "Router",
+        "Quantity": 14,
+        "Price": 60,
+        "Quantity_Sold": 7,
+        "Cost": 40
+      },
+      {
+        "Product_Name": "Switch",
+        "Quantity": 11,
+        "Price": 40,
+        "Quantity_Sold": 6,
+        "Cost": 20
+      },
+      {
+        "Product_Name": "Ring Light",
+        "Quantity": 7,
+        "Price": 40,
+        "Quantity_Sold": 3,
+        "Cost": 20
+      },
+      {
+        "Product_Name": "USB Drive",
+        "Quantity": 18,
+        "Price": 25,
+        "Quantity_Sold": 9,
+        "Cost": 15
+      },
+      {
+        "Product_Name": "Wall Charger",
+        "Quantity": 25,
+        "Price": 15,
+        "Quantity_Sold": 12,
+        "Cost": 5
+      },
+      {
+        "Product_Name": "Wireless Mouse",
+        "Quantity": 16,
+        "Price": 50,
+        "Quantity_Sold": 8,
+        "Cost": 30
+      }
+    ]
+  }
+  
