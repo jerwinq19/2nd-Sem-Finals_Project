@@ -7,5 +7,5 @@ A simple inventory system / ordering management system
 2. Custom Tkinter
 3. Lil bit of responsive design
 4. Blending of Colors
-   
+5. Simple understanding of Data visualization with Matplotlib
 
