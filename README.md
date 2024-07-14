@@ -1,5 +1,8 @@
 # 2nd-Sem-Finals_Project
 A simple inventory system / ordering management system
+with simple data visualization. Took me 14 days to finish. T-T
+
+
 # 7/15/2024
 
 # Things i learn
@@ -14,4 +17,5 @@ A simple inventory system / ordering management system
 2. Clean code
 3. Design
 4. WRITE MORE COMMENTS!!!
+5. Be not lazy.........
    
