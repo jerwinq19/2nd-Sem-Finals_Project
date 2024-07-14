@@ -9,3 +9,9 @@ A simple inventory system / ordering management system
 4. Blending of Colors
 5. Simple understanding of Data visualization with Matplotlib
 
+# Things to improve
+1. Code modularity
+2. Clean code
+3. Design
+4. WRITE MORE COMMENTS!!!
+   
